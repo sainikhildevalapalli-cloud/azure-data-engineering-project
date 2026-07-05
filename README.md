@@ -92,19 +92,24 @@ azure-data-engineering-project
 
 ### Resource Group
 
-(Add screenshot)
+<img width="1920" height="1080" alt="Resource_Group" src="https://github.com/user-attachments/assets/a3e3f53f-2a20-451a-a81f-5cb229bdaa11" />
 
 ### Storage Account
 
-(Add screenshot)
+<img width="1920" height="1020" alt="Storage_account" src="https://github.com/user-attachments/assets/23c052ab-a783-4d53-ae2e-522ec6ccb35a" />
 
 ### Containers
 
-(Add screenshot)
+<img width="1920" height="1080" alt="Container" src="https://github.com/user-attachments/assets/1bf29d06-60ad-403f-8fd7-e8864d541a44" />
+
+### Bronze Layer
+
+<img width="1920" height="1080" alt="bronze_layer" src="https://github.com/user-attachments/assets/93adfaf3-01e9-45b3-a624-bacb59a653aa" />
 
 ### Azure SQL Database
 
-(Add screenshot)
+<img width="1920" height="1080" alt="azure_SQL_DB" src="https://github.com/user-attachments/assets/5bab29f3-dd66-4dec-a605-b6c55654a1ab" />
+
 
 ---
 
