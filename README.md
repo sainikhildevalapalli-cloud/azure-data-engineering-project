@@ -67,7 +67,7 @@ https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
 - ✅ Bronze/Silver/Gold Containers Created
 - ✅ Raw Dataset Uploaded
 - ✅ Azure SQL Database Created
-- ⏳ Azure Data Factory
+- ✅ Azure Data Factory
 - ⏳ Azure Databricks
 - ⏳ Power BI Dashboard
 
@@ -110,12 +110,23 @@ azure-data-engineering-project
 
 <img width="1920" height="1080" alt="azure_SQL_DB" src="https://github.com/user-attachments/assets/5bab29f3-dd66-4dec-a605-b6c55654a1ab" />
 
+### Azure Data Factory
 
+<img width="1252" height="837" alt="image" src="https://github.com/user-attachments/assets/92b4f3b1-dda5-4995-91ab-4f33fdea8d56" />
+
+## Day 2 Progress
+
+### Azure Data Factory
+
+- Created Azure Data Factory instance
+- Configured linked services for ADLS Gen2
+- Built a pipeline to copy data from Bronze to Silver
+- Parameterized the pipeline to support dynamic file names
+- Successfully validated pipeline execution
 ---
 
 ## Next Steps
 
-- Build Azure Data Factory pipeline
 - Load Bronze data
 - Create Silver layer
 - Transform data using PySpark
